@@ -33,7 +33,6 @@ public class Gui extends JFrame{
      frame.add(button1);
      frame.add(button2);
 	 }
-
 	
 		
 	}
